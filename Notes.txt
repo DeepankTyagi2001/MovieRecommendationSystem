@@ -1,0 +1,26 @@
+Similarity of product
+Recommendation based on similarity
+Amazon, Netflix, Spotify, Youtube, Saavn, fipkart uses it.
+
+Types of recommmender system- 1.Content Based 2.Collaborative Filtering Based 3.Hybrid Based
+1. Content Based Recommender- Recommends based on the similarity of the product. Tags are created here. Based on this tag the model finds similarity.
+2. Collaborative Filtering Recommender System- REcommends based on the user's interest. [have a similarity score??] Used in facebook.
+3. Hybrid - recently yt changed to hybrid??
+
+We will use Content Based Recommender System
+
+Project Flow
+
+1. Preprocessing
+2. Model Building
+3. convert model to product
+4. Deploy it 
+
+
+we will use vectorization, which will help us in finding the similarity among the tags of different movies.[Text Vectorization] - we will be using Bag of Words
+
+Stop words will not be considered.
+
+
+
+
